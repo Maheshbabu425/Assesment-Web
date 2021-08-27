@@ -1,0 +1,4 @@
+pageObjects\AddUserPage.class
+Assesment\Web\App.class
+pageObjects\LandingPage.class
+resources\InitilizationBrowser.class
